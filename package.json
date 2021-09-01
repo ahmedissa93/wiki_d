@@ -2,7 +2,7 @@
 	"name": "wikijs",
 	"description": "Mediawiki interface for Node and Web",
 	"author": "Richard van der Dys",
-	"version": "6.3.2",
+	"version": "7.0.0",
 	"keywords": [
 		"wiki",
 		"wikipedia",
@@ -18,7 +18,7 @@
 	"engines": {
 		"node": ">=0.10.4"
 	},
-	"main": "./dist/wiki.js",
+	"main": "./src/wiki.js",
 	"funding": {
 		"type": "individual",
 		"url": "https://www.buymeacoffee.com/2tmRKi9"
